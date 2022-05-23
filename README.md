@@ -9,7 +9,6 @@ https://github.com/pirik3/AHK_RiseOnlineWorld
 
 Kişisel olarak kullandığım Rise Online World için bir asistan aracıdır.
 Oyunu artık oynamadığım geliştirme süreci de bitmiştir.
-kran klavyesidir. Oyun engellediği için bir çok özellik eksiktir.
 AHK_RiseOnlineWorld by pirik3 codunun değiştirilmiş halidir.
 https://github.com/pirik3/AHK_RiseOnlineWorld
 
